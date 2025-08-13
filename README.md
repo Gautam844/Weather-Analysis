@@ -14,7 +14,7 @@ Created an interactive weather dashboard using Power BI, fetching real-time data
 - *Excel/CSV* – Optional intermediate data handling.
 
 ## Screenshots
-Add screenshots of your Power BI dashboards here.
+[Dashboard Screenshot](Screenshot_2.png).
 
 ## How to Use
 1. Clone the repo.
